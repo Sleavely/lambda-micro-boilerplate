@@ -1,6 +1,6 @@
 # lambda-micro-boilerplate [![Build Status](https://travis-ci.org/Sleavely/lambda-micro-boilerplate.svg?branch=master)](https://travis-ci.org/Sleavely/lambda-micro-boilerplate)
 
-[Github](https://github.com/Sleavely/lambda-micro-boilerplate) | NPM | [Travis](https://travis-ci.org/Sleavely/lambda-micro-boilerplate)
+[Github](https://github.com/Sleavely/lambda-micro-boilerplate) | NPM | Travis
 
 
 * [About](#about)
@@ -33,14 +33,14 @@ npm install
 1. Modify routes in `api.js`
 1. Run `node local.js` to start your API locally
 1. ???
-1. Deploy with serverless
+1. Deploy!
 
 ## Bootstrap Checklist
 
 The slightly longer version:
 
 - Change or update the [LICENSE](./LICENSE)
-- Update package.json
+- Update [package.json](./package.json):
   - `name`
   - `description`
   - `repository`
@@ -48,6 +48,7 @@ The slightly longer version:
   - `author`
   - `license`
 - `git init`
+- Replace this README with something useful.
 
 
 ---
