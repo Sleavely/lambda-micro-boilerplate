@@ -19,9 +19,9 @@ _lambda-micro-boilerplate_ provides a simple template with a minimal dependency 
 ## Install
 
 ```bash
-DIRECTORY="my-lamda-api"
-git clone --depth=1 git@github.com:Sleavely/lambda-micro-boilerplate.git $DIRECTORY
-cd $DIRECTORY
+PROJECT_DIRECTORY="my-lamda-api"
+git clone --depth=1 git@github.com:Sleavely/lambda-micro-boilerplate.git $PROJECT_DIRECTORY
+cd $PROJECT_DIRECTORY
 rm -rf .git/
 npm install
 ```
