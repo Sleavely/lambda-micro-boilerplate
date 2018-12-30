@@ -47,7 +47,7 @@ The slightly longer version:
   - `keywords`
   - `author`
   - `license`
-- bas
+- `git init`
 
 
 ---
