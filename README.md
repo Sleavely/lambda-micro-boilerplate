@@ -33,7 +33,7 @@ npm install
 1. Modify routes in `api.js`
 1. Run `node local.js` to start your API locally
 1. ???
-1. Deploy!
+1. Deploy your AWS Lambda function with `lambda.handler` as your handler
 
 ## Bootstrap Checklist
 
